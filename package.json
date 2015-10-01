@@ -1,0 +1,15 @@
+{
+  "name": "MYDAY",
+  "version": "0.0.0",
+  "description": "MYDAY is an app for your special day",
+  "main": "server.js",
+  "author": "NexNexter",
+  "dependencies": {
+    "body-parser": "~1.5.2",
+    "express": "~4.7.2",
+    "express-jwt": "^3.1.0",
+    "method-override": "~2.1.2",
+    "mongoose": "~3.6.2",
+    "morgan": "~1.2.2"
+  }
+}
